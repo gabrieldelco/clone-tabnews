@@ -2,7 +2,7 @@ function Home() {
   return (
     <h1>
       So faith, hope, love remain, these three; but the greatest of these is
-      love ✝️❤️‍🔥
+      love ✝️❤️‍🔥.
     </h1>
   );
 }
